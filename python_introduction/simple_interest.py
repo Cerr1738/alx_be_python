@@ -1,5 +1,5 @@
-principal = 1000 = P
-rate = 0.05 = R
-time = 3 = T
+P = 1000
+R = 0.05 
+T = 3 
 I = P * R * T
 print("The simple interest is", I )
