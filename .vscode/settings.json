@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./programming_paradigm/robust_division_calculator.py",
+        "./programming_paradigm/robust_division_calculator.py"
+    ]
+}
